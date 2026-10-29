@@ -1,3 +1,4 @@
+/*
 pipeline {
     agent any
     stages{
@@ -8,3 +9,5 @@ pipeline {
         }
     }
 }
+*/
+echo 'Triggered by pollSCM'
