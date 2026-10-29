@@ -10,4 +10,5 @@ pipeline {
     }
 }
 */
-echo 'Triggered by pollSCM'
+// echo 'Triggered by pollSCM'
+echo 'Triggered by webhook'
